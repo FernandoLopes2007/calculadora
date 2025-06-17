@@ -1,24 +1,16 @@
 
 float soma(float x, float y){
-	float soma;
-	soma = x+y;
-	return soma;
+	return x+y;
 }
 
 float subtracao(float x, float y){
-	float subtracao;
-	subtracao = x-y;
-	return subtracao;
+	return x-y;
 }
 
 float multiplicacao(float x, float y){
-	float multiplicacao;
-	multiplicacao = x*y;
-	return multiplicacao;
+	return x*y;
 }
 
 float divisao(float x, float y){
-	float divisao;
-	divisao = x/y;
-	return divisao;
+	return x/y;
 }
