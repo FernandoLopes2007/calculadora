@@ -1,5 +1,5 @@
 
-float soma(float x, float y){
+float adicao(float x, float y){
 	return x+y;
 }
 
